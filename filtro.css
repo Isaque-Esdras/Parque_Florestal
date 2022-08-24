@@ -1,0 +1,15 @@
+body{
+    background-color: blueviolet;
+    color: white;
+    display: flex;
+}
+
+img{
+    height: 100vh;
+}
+
+section{
+    align-items: center;
+    height: 300px;
+    width: 300px;
+}
